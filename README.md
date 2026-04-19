@@ -13,7 +13,7 @@ Este projeto tem como objetivo explorar o uso de Modelos de Linguagem (LLMs) com
 
 ---
 
-## uradoria de Fontes
+## Curadoria de Fontes
 
 1. https://www.deeplearning.ai/
 2. https://huggingface.co/learn
@@ -65,6 +65,26 @@ Novo prompt:
 
 ---
 
+### Prompt 3
+
+**Pergunta:**
+Quais são aplicações reais de Inteligência Artificial no dia a dia?
+
+**Resposta resumida:**
+A Inteligência Artificial (IA) já está profundamente integrada na infraestrutura de quase todos os setores e em diversas atividades do nosso cotidiano.
+
+---
+
+**Análise:**
+- O que funcionou: Trouxe uma visão prática da IA no cotidiano, facilitando a conexão com a realidade
+- O que não funcionou: A resposta foi muito geral, sem exemplos específicos
+- Como melhorei o prompt: Pedi exemplos mais concretos e detalhados do dia a dia
+
+Novo prompt:
+"Dê exemplos mais concretos e detalhados para o dia a dia"
+
+---
+
 ## Miniguia de Estudo
 
 ### Resumo
@@ -92,3 +112,11 @@ Subáreas principais:
 - Explique [tema] de forma simples e técnica  
 - Crie um resumo estruturado de [tema]  
 - Liste os principais conceitos de [tema]  
+
+## Reflexão Final
+
+Durante o desenvolvimento deste projeto, percebi que o uso de LLMs vai muito além de obter respostas rápidas. A qualidade das respostas está diretamente ligada à forma como os prompts são estruturados.
+
+Aprendi que refinar perguntas, pedir exemplos e ajustar o nível de complexidade são passos essenciais para obter melhores resultados. Isso reforça a importância do pensamento crítico no uso da Inteligência Artificial.
+
+Além dá praticidade de se ter um um chat "exclusivo" para um determinado tema que facilita muito o dia a dia e que inclusive utilizo durante as minhas atividades no trabalho e agora para os estudos. Algumas das fontes que usei foram as anotações que fiz durante as aulas do curso.
