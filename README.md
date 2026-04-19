@@ -45,6 +45,26 @@ Novo prompt:
 
 ---
 
+### Prompt 2
+
+**Pergunta:**
+Qual a diferença entre IA, Machine Learning e Deep Learning?
+
+**Resposta resumida:**
+A relação entre esses conceitos é hierárquica: Inteligência Artificial é o campo mais amplo, Machine Learning é uma subárea que permite que máquinas aprendam com dados, e Deep Learning é uma técnica mais avançada dentro de Machine Learning baseada em redes neurais.
+
+---
+
+**Análise:**
+- O que funcionou: Explicação clara e bem estruturada, facilitando a compreensão da hierarquia entre os conceitos  
+- O que não funcionou: Faltaram exemplos práticos para reforçar o entendimento  
+- Como melhorei o prompt: Pedi exemplos do mundo real para cada conceito
+
+Novo prompt:
+"Dê exemplos práticos de IA, Machine Learning e Deep Learning no dia a dia"
+
+---
+
 ## Miniguia de Estudo
 
 ### Resumo
